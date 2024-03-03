@@ -131,7 +131,7 @@ async def response(arg):
             f"👀<a href='{link_to_watch_eng}'>Ссылка для просмотра на английском языке</a>"  
 
         )                  
-        return description, link
+        return description, link 
 
 
     else:
