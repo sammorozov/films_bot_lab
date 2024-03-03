@@ -6,7 +6,7 @@ hardcode_words = ['Venom',
                   'как витька чеснок вез леху штыря в дом инвалидов',
                   'Рататуй']
 
-
+ 
 
 
 def levenstein(str_1, str_2):
