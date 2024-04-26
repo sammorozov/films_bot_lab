@@ -6,7 +6,7 @@ async def response(arg):
         link_to_watch = 'https://mu.lordfilm.in/film/1-Uzhasy/317-venom.html'
         link_to_watch_eng = 'https://inoriginal.online/films/1755-venom-2018.html'
         link = 'https://b1.filmpro.ru/c/555575.jpg'
-          
+           
         description = (
             f"<b>{levenstein.hardcode_words[0]}</b>\n\n"  
             "🧐Описание: <i>Что если в один прекрасный день в тебя вселяется существо-симбиот, которое наделяет тебя "
